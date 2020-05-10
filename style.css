@@ -1,0 +1,9 @@
+.demo {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    /* div要想移动必须加绝对位置 */
+    position: absolute;  
+}
